@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I am currently learning and expanding my skills in React and other related tools<br>🌱 Career Objective: To find job opportunities in the information technology industry in Germany as a uiux Developer.<br>💬 <br>
-🔭 Ich lerne derzeit und erweitere meine Fähigkeiten in React und anderen verwandten Tools.<br>🌱 Karriereziel: Jobmöglichkeiten in der Informationstechnologiebranche in Deutschland als Front-End-Entwickler zu finden.<br>💬 <br>
+🔭 I am currently learning and expanding my skills in uiuc and other related tools<br>🌱 Career Objective: To find job opportunities in the information technology industry in Germany as a uiux Developer.<br>💬 <br>
+🔭 Ich lerne derzeit und erweitere meine Fähigkeiten in uiux und anderen verwandten Tools.<br>🌱 Karriereziel: Jobmöglichkeiten in der Informationstechnologiebranche in Deutschland als Front-End-Entwickler zu finden.<br>💬 <br>
 ..
 
 ## 🌐 Socials:
